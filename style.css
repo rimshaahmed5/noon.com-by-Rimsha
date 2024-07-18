@@ -1,0 +1,80 @@
+.header{
+    background-color: #feee00;
+
+}
+.dubai{
+    margin: 5px;
+    padding: 2px;
+    
+}
+.dubai a{
+    text-decoration: none;
+    color: black;
+}
+.ANIMATION{
+    background-color: #fcfbf4;
+}
+
+/* .navimages{
+    width: 50%;
+    height: 50vh;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    margin: 20px;
+} */
+
+.navimages img{
+    height: 100px;
+    width: 100px;
+    /* border-radius: 50%; */
+    /* border: 5px solid yellow; */
+}
+.navimages{
+    background-color: #f2faff;   
+}
+.bbt{
+   background-color: #fded00;
+    color: rgb(64, 69, 83);
+    font-weight: bold;
+    font-size: small;
+    text-overflow: ellipsis;
+}
+
+main{
+    background-color: #f7f7fa;
+}
+.MORE{
+    background-color: #d5e3eb;
+}
+.sales{
+    padding: 4px 14px;
+    font-weight: bold;
+    text-align: center;
+   
+}
+.woman{
+    color: #35566c;
+}
+.fashionwoman{
+    background-color: #d5e3eb;
+}
+.endpara{
+    margin: 20px;
+    padding: 20px;
+    font: 1em;
+}
+.bagg{
+    background-color:#f2faff;
+}
+.yellow{
+    color: #feee00;
+
+    font-size: 30px;
+    
+
+}
+.yellow :hover{
+    color: #404553;
+
+}
